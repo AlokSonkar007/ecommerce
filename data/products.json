@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "AeroFlex Runner",
+    "price": 129.99,
+    "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=80",
+    "description": "Lightweight running shoes with breathable knit upper and responsive cushioning.",
+    "category": "Shoes"
+  },
+  {
+    "id": 2,
+    "name": "Urban Leather Sneaker",
+    "price": 149.99,
+    "image": "https://images.unsplash.com/photo-1512374382149-233c42b6a83b?auto=format&fit=crop&w=900&q=80",
+    "description": "Premium leather sneakers designed for all-day comfort and minimal style.",
+    "category": "Shoes"
+  },
+  {
+    "id": 3,
+    "name": "Nimbus Puffer Jacket",
+    "price": 219.0,
+    "image": "https://images.unsplash.com/photo-1548883354-94bcfe321cbb?auto=format&fit=crop&w=900&q=80",
+    "description": "Insulated puffer jacket with modern silhouette and weather-resistant finish.",
+    "category": "Jackets"
+  },
+  {
+    "id": 4,
+    "name": "Slate Bomber",
+    "price": 184.5,
+    "image": "https://images.unsplash.com/photo-1592878849122-5f67b9a943f5?auto=format&fit=crop&w=900&q=80",
+    "description": "Sleek bomber jacket crafted from recycled materials with soft lining.",
+    "category": "Jackets"
+  },
+  {
+    "id": 5,
+    "name": "Aurora Smartwatch",
+    "price": 299.99,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+    "description": "Minimal smartwatch with health tracking, notifications, and elegant aluminum body.",
+    "category": "Electronics"
+  },
+  {
+    "id": 6,
+    "name": "Pulse Wireless Earbuds",
+    "price": 119.99,
+    "image": "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f37?auto=format&fit=crop&w=900&q=80",
+    "description": "Noise-isolating earbuds with deep bass and up to 24-hour battery life.",
+    "category": "Electronics"
+  },
+  {
+    "id": 7,
+    "name": "Nova Backpack",
+    "price": 89.99,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+    "description": "Streamlined backpack featuring laptop sleeve and hidden anti-theft pocket.",
+    "category": "Accessories"
+  },
+  {
+    "id": 8,
+    "name": "Titan Sunglasses",
+    "price": 74.99,
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=900&q=80",
+    "description": "UV-protected polarized sunglasses with lightweight titanium frame.",
+    "category": "Accessories"
+  },
+  {
+    "id": 9,
+    "name": "Vertex Hoodie",
+    "price": 96.0,
+    "image": "https://images.unsplash.com/photo-1556821840-3a9fbc4ca00f?auto=format&fit=crop&w=900&q=80",
+    "description": "Ultra-soft heavyweight hoodie with relaxed fit and modern dropped shoulders.",
+    "category": "Jackets"
+  },
+  {
+    "id": 10,
+    "name": "Stride Slip-On",
+    "price": 88.75,
+    "image": "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?auto=format&fit=crop&w=900&q=80",
+    "description": "Comfort-driven slip-on shoes for versatile everyday wear.",
+    "category": "Shoes"
+  },
+  {
+    "id": 11,
+    "name": "Arc Messenger Bag",
+    "price": 109.49,
+    "image": "https://images.unsplash.com/photo-1594223274512-ad4803739b7c?auto=format&fit=crop&w=900&q=80",
+    "description": "Refined messenger bag with magnetic closure and structured compartments.",
+    "category": "Accessories"
+  },
+  {
+    "id": 12,
+    "name": "Lumen Tablet",
+    "price": 429.99,
+    "image": "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?auto=format&fit=crop&w=900&q=80",
+    "description": "Slim high-resolution tablet designed for creativity, work, and entertainment.",
+    "category": "Electronics"
+  }
+]
